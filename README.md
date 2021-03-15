@@ -1,6 +1,6 @@
-# Robotics Project Submitted to NWO (2021)
+# Robotics Project - NWO 2021
 
-## Points do Consider While Writing
+## Points to Consider While Writing
 
 - Scientific in nature (reviewers from other fields);
 - Explore something unknown/ground-breaking;
