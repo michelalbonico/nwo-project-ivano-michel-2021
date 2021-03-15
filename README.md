@@ -7,6 +7,24 @@
 - Relatively rapid exploration of a promising idea (9 months);
 - It should be somehow related to software engineering (given our research interest).
 
+### Ivano's Background
+- Software Engineering in Regard to the Software Industry
+- Mobile Apps
+- Microservices
+- Model-driven Engineering
+- Mining Software Repositories
+- Empirical Software Engineering
+- Robotics
+
+
+### Michel's Background
+- Cloud Computing and Distributed Systems
+- Distributed Software Testing
+- IoT Software (researching)
+- IoT Devices
+- Robotics
+- Educational Robotics
+
 ## Dates
 - Deadline: 6 May;
 - Notication: 17 June.
