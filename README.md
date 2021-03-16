@@ -25,6 +25,21 @@
 - Robotics
 - Educational Robotics
 
+### Group Focus
+- Data-driven (base the decisions on software repositories - mining/SLR);
+- Empirical experimentation (non-functional requirements);
+- Sustainability and human factors (jobs, privacy, energy consumption, socialization, ...);
+- Software architecture (which are the existing architectures).
+
+To which extent:
+- Smart cities (and environments);
+- Cloud computing (offloading);
+- Robotics.
+
+Aiming at:
+- Being relevant to the industry;
+- Being applyable in practice.
+
 ## Dates
 - Deadline: 6 May;
 - Notication: 17 June.
