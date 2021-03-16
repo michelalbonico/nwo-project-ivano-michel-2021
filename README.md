@@ -42,3 +42,11 @@
   - To which extent? Have they been used for saving money?
   - How to improve trustness?
   - Humanization: how can the social connection be improved/how can a robot be used to improve children socialization.
+
+## Communicating Robots and IoT Devices
+
+```
+R. White, H. I. Christensen, G. Caiazza and A. Cortesi, "Procedurally Provisioned Access Control for Robotic Systems," 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Madrid, Spain, 2018, pp. 1-9, doi: 10.1109/IROS.2018.8594462.
+
+
+```
