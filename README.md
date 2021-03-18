@@ -4,7 +4,7 @@
 
 - Scientific in nature (reviewers from other fields);
 - Explore something unknown/ground-breaking;
-- Relatively rapid exploration of a promising idea (9 months);
+- A relatively rapid exploration of a promising idea (9-10 months);
 - It should be somehow related to software engineering (given our research interest).
 
 ### Ivano's Background
@@ -15,7 +15,6 @@
 - Mining Software Repositories
 - Empirical Software Engineering
 - Robotics
-
 
 ### Michel's Background
 - Cloud Computing and Distributed Systems
@@ -38,31 +37,37 @@ To which extent:
 
 Aiming at:
 - Being relevant to the industry;
-- Being applyable in practice.
+- Being applicable in practice.
 
 ## Dates
 - Deadline: 6 May;
-- Notication: 17 June.
+- Notification: 17 June.
 
-## Main Robot Ideas (We Must Focus on What to Research For Them)
-- Covid (or other pandemic) focused - the impact of this pandemic goes to last for a while;
-  - https://www.theguardian.com/world/gallery/2020/oct/02/the-rise-of-the-covid-robots-in-pictures
-  - Contactless (https://www.youtube.com/watch?v=Fwijfcuwz0I);
-  - Social bots (https://www.youtube.com/watch?v=WujARg_xqfE);
-    - http://wiki.ros.org/Robots/Maggie (all its capabilities are implemented via ROS); 
-    - https://subscription.packtpub.com/book/hardware_and_creative/9781783554713/3/ch03lvl1sec26/building-social-robots
-  - https://hospitalityinsights.ehl.edu/robots-during-covid-19
+## Main Ideas
 
-  * For this, the it could be an exit to research about the "impact" of integrating IoT devices and Robots (IoRT).
-    - Patient monitoring and robots that replace basic nursing tasks, such as delivering pills, or even taking the blood pressure.
+- Robots + IoT (Smart Environments and Robots)
+  - With the contactless worldwide situation, smart environments become even more interactive and necessary, where the robots play a key role. For instance, are hospitals where basic nursing tasks have been performed by machines.
+  - Why IoT and robots?
+    -  Simplest example: patient monitoring and robots that replace basic nursing tasks, such as delivering pills, or even taking the blood pressure.
   
-  * To which extent? Have they been used for saving money?
+  * Some robotics projects related to that:
+   - https://www.theguardian.com/world/gallery/2020/oct/02/the-rise-of-the-covid-robots-in-pictures
+   - Contactless (https://www.youtube.com/watch?v=Fwijfcuwz0I)/https://twitter.com/AsOriented/status/1371399822276714497;
+   - Social bots (https://www.youtube.com/watch?v=WujARg_xqfE);
+     - http://wiki.ros.org/Robots/Maggie (all its capabilities are implemented via ROS); 
+     - https://subscription.packtpub.com/book/hardware_and_creative/9781783554713/3/ch03lvl1sec26/building-social-robots
+   - https://hospitalityinsights.ehl.edu/robots-during-covid-19
   
-  * How to improve trustness?
-  
-  * Humanization: how can the social connection be improved/how can a robot be used to improve children socialization.
+  * Integrating IoT and Robotics Software (IoRT). 
+   * Stupid case study:
+   * Catalog case studies and robots, and experiment them;
+      * Non-functional requirements.
+    
+  * Humanization: social connection used to improve children's socialization (a bit skewed).
 
-## References (Desc. Ordered)
+- Simulating robot energy consumption (not sure it's appealing for other areas and industries).
+
+## References IoRT (Desc. Ordered)
 
 ```
 Kamilaris, Andreas and Botteghi, Nicolò. ‘The Penetration of Internet of Things in Robotics: Towards a Web of Robotic Things’. 
